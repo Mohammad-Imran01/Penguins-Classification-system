@@ -12,4 +12,10 @@ The web app was built in Python using the following libraries:
 * numpy
 * scikit-learn
 * pickle
+
+
+From the plot shown above, we can see that the random forest has incorrectly classified a total of 7 penguins out of the 114 in the test data. As shown in the classification report, we have therefore achieved an accuracy of 94%.
+
+
+
 ![Screenshot](https://github.com/Mohammad-Imran01/Penguins-Classification-system/blob/main/penguinsConfusion%20matrix.png)
