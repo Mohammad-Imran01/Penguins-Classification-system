@@ -12,6 +12,4 @@ The web app was built in Python using the following libraries:
 * numpy
 * scikit-learn
 * pickle
-
-
-https://github.com/Mohammad-Imran01/Penguins-Classification-system/blob/main/penguinsConfusion%20matrix.png
+![Screenshot](https://github.com/Mohammad-Imran01/Penguins-Classification-system/blob/main/penguinsConfusion%20matrix.png)
